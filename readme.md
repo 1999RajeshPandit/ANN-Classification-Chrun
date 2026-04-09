@@ -1,0 +1,1 @@
+My first ANN AI model to predict wheater custormer churn the bank or not
