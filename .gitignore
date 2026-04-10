@@ -13,8 +13,8 @@ __pycache__/
 # logs/
 
 # Model artifacts and serialized objects
-*.h5
-*.pkl
+# *.h5
+# *.pkl
 
 # OS files
 .DS_Store
